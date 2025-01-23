@@ -1,2 +1,2 @@
 # dteams
-dteams exercises
+dteams exercises (ML studing)
